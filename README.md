@@ -1,16 +1,12 @@
-# get_out1
+# GetMeOut
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
-A new Flutter project.
+# About
+A fake call app to get you out of unwanted situations. You can schedule your calls and can add contact details.
 
-## Getting Started
+# Screenshot
+![display(1)(1)](https://user-images.githubusercontent.com/53148611/158029176-479aa294-53cb-4f70-88ee-d5ef6efa20ed.png)
 
-This project is a starting point for a Flutter application.
+# Download
+<a href='https://play.google.com/store/apps/details?id=com.bhargav.get_out1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
